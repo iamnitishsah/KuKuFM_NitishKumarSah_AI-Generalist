@@ -9,11 +9,13 @@ This repository contains my submissions for the Kuku AI Generalist Assignment. E
 
 - **GitHub Repository:** [KuKuAds](https://github.com/iamnitishsah/KuKuAds)
 - **Live Demo:** [https://kukuads.streamlit.app/](https://kukuads.streamlit.app/)
+- **YouTube Demo Video:** [Watch Video](https://youtu.be/Pv8Q1zt-BlQ)
 
 ## Task 2: LawBuddy
 
 - **GitHub Repository:** [LawBuddy](https://github.com/iamnitishsah/LawBuddy)
 - **Live Demo:** [https://iamlawbuddy.vercel.app/](https://iamlawbuddy.vercel.app/)
+- **YouTube Demo Video:** [Watch Video](https://youtu.be/ndR2hS_zkFk)
 
 ---
 
