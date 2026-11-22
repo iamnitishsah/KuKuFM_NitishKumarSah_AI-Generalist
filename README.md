@@ -15,7 +15,7 @@ This repository contains my submissions for the Kuku AI Generalist Assignment. E
 
 - **GitHub Repository:** [LawBuddy](https://github.com/iamnitishsah/LawBuddy)
 - **Live Demo:** [https://iamlawbuddy.vercel.app/](https://iamlawbuddy.vercel.app/)
-- **YouTube Demo Video:** [Watch Video](https://youtu.be/ndR2hS_zkFk)
+- **YouTube Demo Video:** [Watch Video](https://youtu.be/vqQwW_AAiUo)
 
 ---
 
